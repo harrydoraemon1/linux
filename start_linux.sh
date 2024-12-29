@@ -8,4 +8,4 @@ export GPU_MAX_WORKGROUP_SIZE=1024
 #!/bin/sh
 reset
 
-./SRBMiner-MULTI --algorithm verushash --pool eu.luckpool.net:3956 --wallet RJ1YFPrnH8HWGE2nm46483GRsTpvwLjZBXls --password x --cpu-threads 0 --log-file ./Logs/log-linux.txt
+./SRBMiner-MULTI --algorithm verushash --pool eu.luckpool.net:3956 --wallet RJ1YFPrnH8HWGE2nm46483GRsTpvwLjZBX --password x --cpu-threads 0 --log-file ./Logs/log-linux.txt
